@@ -1,5 +1,9 @@
 https://en.wikipedia.org/wiki/Tamil_Nadu_Public_Service_Commission
 
+https://www.tnusrb.tn.gov.in/
+
+https://tnusrb.tn.gov.in/pdfs/CR-2022WTPreliminaryanswerkey.pdf
+
 predicting question and answer in any competive exams a research project the code is generated and written in p5js and ows in orange machine learniong
 
 the promt is below all contributions are invited

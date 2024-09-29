@@ -1,4 +1,4 @@
-predicting question and answer in any competive exams a research project the code is generated and written in p5js 
+predicting question and answer in any competive exams a research project the code is generated and written in p5js and ows in orange machine learniong
 
 the promt is below all contributions are invited
 
